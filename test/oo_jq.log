@@ -1,0 +1,6 @@
+Sat Jan  2 03:10:34 PST 2021
+mock oop mark : addYears 3
+mock oop oopClass = oopSelfCopy . class
+mock oop newAge = selfRef . age
+mock oop selfRef . age = 23
+mock record mark is a json Human of age 23: { "class": "Human", "age": "23" }
